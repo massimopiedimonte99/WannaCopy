@@ -1,5 +1,3 @@
-/* This version does not allow multiple selection, more "user-friendly" though. */
-
 let child = document.querySelector('.post').children, s = false 
        
 for(let i = 0; i < child.length; i++){
