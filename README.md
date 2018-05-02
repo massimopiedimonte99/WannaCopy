@@ -8,7 +8,7 @@ The main purpose of this script is to help my classmates learning chemistry with
 
 ## Compatibility
 
-As of now, this script works fine the latest version of Firefox only.
+As of now, this script works fine almost any recent version of Firefox only.
 
 ## Usage
 
