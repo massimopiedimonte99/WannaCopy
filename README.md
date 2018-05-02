@@ -6,6 +6,10 @@ The script is adapted to work with [Chimica-Online](http://www.chimica-online.it
 
 The main purpose of this script is to help my classmates learning chemistry without have to disable javascript to take notes.
 
+## Compatibility
+
+As of now, this script works fine the latest version of Firefox only.
+
 ## Usage
 
 Go to [Chimica-Online](http://www.chimica-online.it) and paste the minified script in the Javascript console of your favourite browser and you'll be ready to go!
